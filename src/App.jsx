@@ -1,7 +1,7 @@
 //import React from "react";
-import Sidebar from "/composent/Sidebar";
-import Cotent from "/composent/Cotent";
-import Profile from "/composent/profile"
+import Sidebar from "./composent/Sidebar";
+import Cotent from "./composent/Cotent";
+import Profile from "./composent/Profile"
 import './App.css'
 const App = () =>{
   return(
